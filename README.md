@@ -1,5 +1,5 @@
 ## Purpose: To assist you in your understanding of the assignment topics
-The following videos were developed by your instructor to assist in your understanding of the Assignment Topics. If you view a video, I would appreciate some type of feedback to include any corrections, comments, complaints. Your feedback will let me know this type of additional support is appreciated and will encourage me to provide additional assistance on future assignments.
+The following videos were developed to assist in your understanding of the Assignment Topics. If you view a video, I would appreciate some type of feedback to include any corrections, comments, complaints. Your feedback will let me know this type of additional support is appreciated and will encourage me to provide additional assistance on future assignments.
 Note: this material is not to be shared. This is bonus support provided by your instructor and not intended for students in other bootcamps.
 
 * Module 2: VBA of Wall Street ![Module 2: VBA of Wall Street](./Images/VBA_WallStreet.png)
